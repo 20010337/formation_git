@@ -1,7 +1,7 @@
 # formation_git
 TPs
 
-Ajout d'une ligne
+gestionconflictuelleAjout d'une ligne
 
 Ajout d'une autre ligne
 
