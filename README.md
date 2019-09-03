@@ -2,10 +2,11 @@
 TPs
 
 gestionconflictuelleAjout d'une ligne
+testdu conflitAjout d'une ligne
 
 Ajout d'une autre ligne
 
-
+conflit
 
 
 Test
