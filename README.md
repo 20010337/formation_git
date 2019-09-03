@@ -1,11 +1,11 @@
 # formation_git
 TPs
 
-Ajout d'une ligne
+testdu conflitAjout d'une ligne
 
 Ajout d'une autre ligne
 
-
+conflit
 
 
 Test
